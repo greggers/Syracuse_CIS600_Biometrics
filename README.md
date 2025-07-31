@@ -48,6 +48,16 @@ This module demonstrates face detection using the Viola-Jones algorithm and reco
 #### Features:
 *   **Face Detection**: Implementation of Haar Cascade Classifiers for face detection.
 
+### Module 4: Face Detection and Recognition
+**Location:** `Module_05_Iris_Identification/`
+
+This module demonstrates iris recognition using Daugman approach. Not completed still needs work.
+
+#### Features:
+*   **Iris Segmentation**: Implementation of Hough transform for iris segmentation.
+*   **Rubber Mat Normalization**: Uses rubber mat technique to unroll and normalize the iris image.
+*   **Gabor Filter**: Gabor filter for iris classification
+
 ## Installation
 
 ### Prerequisites
